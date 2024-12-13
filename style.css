@@ -18,6 +18,7 @@ body {
     display: flex;
     border: 1px solid black;
     border-radius: 7%;
+    background-color: rgba(0, 0, 0, 0.3);
 }
 
 .main-form {
